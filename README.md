@@ -7,7 +7,7 @@ Se facilita las siguientes imágenes y un archivo comprimido en formato .zip con
 > >
 > > **Ejemplo de solucion:** cat&hack{gatitos2023}
 > >
-> > **cats.jpg** > > ![cats.jpg](/cats.jpg)
+> > **cats.jpg** ![cats.jpg](/cats.jpg)
 > >
 > > MD5: 6cf12a6bf22706e78fc2fa25d8a7f686
 > >
