@@ -1,13 +1,11 @@
 # **Cats & Hacks**
 
 Se facilita las siguientes imágenes y un archivo comprimido en formato .zip con su hash en diferentes funciones. Calcular previamente el hash de los archivos para verificar que se ha copiado correctamente y la información esta integra.
-
-
-Para resolver este reto se debe dar la solución con el siguiente formato:
+> > Para resolver este reto se debe dar la solución con el siguiente formato:
 > >
- **cat&hack{[cadena_de_texto]}**
+> >**cat&hack{[cadena_de_texto]}**
 > >
-**Ejemplo de solucion:** cat&hack{gatitos2023}
+> > **Ejemplo de solucion:** cat&hack{gatitos2023}
 > >
 > > **cats.jpg** > > ![cats.jpg](/cats.jpg)
 > >
